@@ -121,3 +121,4 @@ zipp==3.17.0
 django-filter==23.3
 Markdown==3.5.1
 python-decouple==3.8
+djangorestframework-datatables==0.7.0
