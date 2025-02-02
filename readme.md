@@ -6,14 +6,22 @@ CourseBot: Building an AI-Powered University Course Q&A System.
 
 ![HOME](https://github.com/shariar41/CourseBot/blob/master/screenshots/1.png)
 
-![HOME](https://github.com/shariar41/CourseBot/blob/master/screenshots/2.png)
+![2](https://github.com/shariar41/CourseBot/blob/master/screenshots/2.png)
 
-![HOME](https://github.com/shariar41/CourseBot/blob/master/screenshots/3.png)
-![HOME](https://github.com/shariar41/CourseBot/blob/master/screenshots/4.png)
-![HOME](https://github.com/shariar41/CourseBot/blob/master/screenshots/5.png)
-![HOME](https://github.com/shariar41/CourseBot/blob/master/screenshots/6.png)
-![HOME](https://github.com/shariar41/CourseBot/blob/master/screenshots/7.png)
-![HOME](https://github.com/shariar41/CourseBot/blob/master/screenshots/8.png)
-![HOME](https://github.com/shariar41/CourseBot/blob/master/screenshots/9.png)
-![HOME](https://github.com/shariar41/CourseBot/blob/master/screenshots/10.png)
-![HOME](https://github.com/shariar41/CourseBot/blob/master/screenshots/11.png)
+![3](https://github.com/shariar41/CourseBot/blob/master/screenshots/3.png)
+
+![4](https://github.com/shariar41/CourseBot/blob/master/screenshots/4.png)
+
+![5](https://github.com/shariar41/CourseBot/blob/master/screenshots/5.png)
+
+![6](https://github.com/shariar41/CourseBot/blob/master/screenshots/6.png)
+
+![7](https://github.com/shariar41/CourseBot/blob/master/screenshots/7.png)
+
+![8](https://github.com/shariar41/CourseBot/blob/master/screenshots/8.png)
+
+![9](https://github.com/shariar41/CourseBot/blob/master/screenshots/9.png)
+
+![10](https://github.com/shariar41/CourseBot/blob/master/screenshots/10.png)
+
+![11](https://github.com/shariar41/CourseBot/blob/master/screenshots/11.png)
