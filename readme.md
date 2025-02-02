@@ -1,5 +1,3 @@
-Course Bot Django Project - ChatGPT API for Q/A
-
 CourseBot: Building an AI-Powered University Course Q&A System.
 
 "CourseBot" is an ambitious project at the intersection of advanced artificial intelligence, natural language processing, and modern web development technologies. This initiative aims to construct a dynamic AIpowered University Course Q&A System, utilizing the Hugging Face Transformers library, specifically the instructor model, and Google's FLAN-T5-XXL for enhanced language understanding. The integration will be facilitated through a Django API, providing a robust backend infrastructure, while the frontend will be developed using React.js for a seamless and interactive user experience.
